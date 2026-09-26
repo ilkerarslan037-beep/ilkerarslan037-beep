@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm İlker! 👋
+
+🎓 Computer Science Freshman at Bilkent University  
+💻 Passionate about software development, programming, and learning new technologies.  
+🚀 Currently learning Java and fundamental algorithms in CS101.
 
 <!--
 **ilkerarslan037-beep/ilkerarslan037-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
